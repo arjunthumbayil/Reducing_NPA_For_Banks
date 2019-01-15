@@ -32,7 +32,7 @@ The current Jupyter Notebook highlights the following:
 | Logistic Regression |  72% | 72% |    
 
    * **Test False Negative** : 10%
-   * **Test False Positive** : 18%
+   * **Test False Positive**  : 18%
 
 7. Conclusion    
 
