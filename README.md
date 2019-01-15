@@ -1,4 +1,4 @@
-# German-Credit-Risk-Classification
+# Reducing_NPA_For_Banks
 
 The current Jupyter Notebook highlights the following:
 
